@@ -49,7 +49,6 @@ quiz_numbers.py: Implementación del juego de Quiz de Números.
 README.md: Este archivo de documentación.
 
 
-Desarrollado por
-Moreira Martin
-Lisette Alonso
-<style> body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f4f4f4; color: #333; padding: 20px; } h1, h2, h3 { color: #444; } pre { background-color: #333; color: #fff; padding: 10px; border-radius: 5px; } code { background-color: #f4f4f4; padding: 2px 5px; border-radius: 3px; } </style>
+Desarrollado por:
+
+Moreira Martin & Lisette Alonso
