@@ -1,6 +1,7 @@
 import random
 
 # Definimos las cartas y sus valores según el Truco Argentino
+#lista de tuplas
 CARTAS = [
     ('1', 'Espada'), ('1', 'Basto'), ('7', 'Espada'), ('7', 'Oro'),
     ('3', 'Espada'), ('3', 'Basto'), ('3', 'Copa'), ('3', 'Oro'),
@@ -14,6 +15,7 @@ CARTAS = [
     ('4', 'Espada'), ('4', 'Basto'), ('4', 'Copa'), ('4', 'Oro')
 ]
 
+#Diccionario de valores de las cartas la cual define jerarquia dentro del juego
 VALORES = {
     ('1', 'Espada'): 14, ('1', 'Basto'): 13, ('7', 'Espada'): 12, ('7', 'Oro'): 11,
     ('3', 'Espada'): 10, ('3', 'Basto'): 10, ('3', 'Copa'): 10, ('3', 'Oro'): 10,
