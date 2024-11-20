@@ -1,0 +1,11 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",  // Modo detallado (verbose)
+        "-s",  // Directorio raíz de las pruebas
+        ".",   // Directorio actual
+        "-p",  // Patrón de búsqueda de archivos de prueba
+        "*test.py"  // Archivos que terminan en "test.py"
+    ],
+    "python.testing.pytestEnabled": false,  // Deshabilitar pytest
+    "python.testing.unittestEnabled": true  // Habilitar unittest
+}
